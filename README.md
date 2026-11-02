@@ -7,9 +7,9 @@ This repository contains notebooks from a short guided study. I explored generat
 | Notebook | Experiment |
 |---|---|
 | `BigGan.ipynb` | Reduced BigGAN-style model; saved outputs correspond to cat-only training |
-| `StyleGan1.ipynb` | Unconditional, reduced StyleGAN1-style model on cats |
-| `StyleGan2.ipynb` | Unconditional, reduced StyleGAN2-style model on cats |
-| `SDE-based(1).ipynb` | Budget-adapted continuous VP/DDPM++ score model on cats |
+| `StyleGan1.ipynb` | Unconditional, reduced StyleGAN1-style model on cats. currently I provide it's drive link because it is large. I will provide the code itself in this repository later : https://drive.google.com/file/d/1cThoQ7eXEgTUCLXBmyIN3eQZq8jAqip8/view?usp=drive_link |
+| `StyleGan2.ipynb` | Unconditional, reduced StyleGAN2-style model on cats. currently I provide it's drive link because it is large. I will provide the code itself in this repository later :  https://drive.google.com/file/d/1LH4ewNxc5yhqhtWUQ9GOdM4HWRcw3HM9/view?usp=drive_link |
+| `SDE-based(1).ipynb` | Budget-adapted continuous VP/DDPM++ score model on cats. currently I provide it's drive link because it is large. I will provide the code itself in this repository later :   https://drive.google.com/file/d/1o1-CPL8HsHkUX2mvVQN642AiPSTutiOL/view?usp=drive_link |
 | `ResNet(1).ipynb` | Targeted attacks on ResNet20 checkpoints |
 | `PreAct(1).ipynb` | Targeted attacks on PreActResNet18 checkpoints |
 
